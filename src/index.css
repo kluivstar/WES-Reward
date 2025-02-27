@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+}
